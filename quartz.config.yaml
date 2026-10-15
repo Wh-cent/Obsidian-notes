@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/Wh-cent/Obsidian-notes.git
+  baseUrl: wh-cent.github.io/Obsidian-notes
   ignorePatterns:
     - private
     - templates
